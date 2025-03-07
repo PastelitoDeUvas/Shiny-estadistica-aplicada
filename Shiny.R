@@ -28,16 +28,16 @@ tema_cute <- bs_theme(
 
 #Punto 1
 
-datos_punto1 <- read_excel("C:\\Users\\JUAN\\Desktop\\R\\Proyecto corte 1\\Data sets\\datos_punto1.xlsx")
+datos_punto1 <- read_excel("C:\\Users\\JUAN\\Desktop\\R\\Proyecto corte 1\\Repository\\Shiny-estadistica-aplicada\\Data sets\\datos_punto1.xlsx")
  
 #Punto 2
-datos_punto2 <- read_excel("C:\\Users\\JUAN\\Desktop\\R\\Proyecto corte 1\\Data sets\\datos_punto2.xlsx")
+datos_punto2 <- read_excel("C:\\Users\\JUAN\\Desktop\\R\\Proyecto corte 1\\Repository\\Shiny-estadistica-aplicada\\Data sets\\datos_punto2.xlsx")
 
 #Punto 3
-datos_punto3 <- read_excel("C:\\Users\\JUAN\\Desktop\\R\\Proyecto corte 1\\Data sets\\datos_punto3.xlsx")
+datos_punto3 <- read_excel("C:\\Users\\JUAN\\Desktop\\R\\Proyecto corte 1\\Repository\\Shiny-estadistica-aplicada\\Data sets\\datos_punto3.xlsx")
 
 #Punto 4
-datos_punto4 <- read_excel("C:\\Users\\JUAN\\Desktop\\R\\Proyecto corte 1\\Data sets\\datos_punto4.xlsx")
+datos_punto4 <- read_excel("C:\\Users\\JUAN\\Desktop\\R\\Proyecto corte 1\\Repository\\Shiny-estadistica-aplicada\\Data sets\\datos_punto4.xlsx")
 
 # UI ################################
 ui <- fluidPage(
